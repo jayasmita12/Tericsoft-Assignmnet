@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "basa SAHU",
+      "email": "basasahu@gmail.com",
+      "phone": "943883352",
+      "dob": "2022-09-09",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "name": "JAYASMITA SAHU",
+      "email": "jayasmitasahu@gmail.com",
+      "phone": "9438833152",
+      "dob": "2022-09-01",
+      "gender": "Female",
+      "id": 5
+    },
+    {
+      "name": "Anil Kumar sahu",
+      "email": "anil@gmail.com",
+      "phone": "9438809232",
+      "dob": "2009-11-26",
+      "gender": "Male",
+      "id": 6
+    }
+  ]
+}
